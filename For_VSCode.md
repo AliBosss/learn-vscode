@@ -1,5 +1,5 @@
+![](image/vscode_Logo.png)
 Visual Studio Code ( VSCode )
-
 
 # ✨ Introduction 介紹
 Visual Studio Code ( 以下簡稱 : [[VSCode]] ) 是一款由微軟開發的 ( [[Microsoft]] ) 開源、免費的[[跨平臺]]文本編輯器。與 Visual Studio ( 以下簡稱 : [[VS]] ) 不同的是，VSCode僅作爲文本編輯器，其自身非常輕巧，通過第三方擴展來實現各種功能，例如程式編譯、組態、除錯等，一般用於前端設計、預覽文件、程式練習等；而 VS 是一個完整的開發環境 [[IDE]], VS 嵌套了許多便於設計程式的開發工具、資源監控、錯誤追蹤等强大的功能，一般用於大型專案開發。
