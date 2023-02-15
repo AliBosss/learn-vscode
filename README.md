@@ -31,26 +31,31 @@ VSCode 官方網站 ( [下載連結](https://code.visualstudio.com/Download) )
 ## C. 模組安裝、卸載、停用、版本切換方法
 透過搜尋欄搜尋模組名稱，點選所需模組後，會跳出該模組的介紹頁面：
 
-1. 安裝 ( Install )<br>
-![](image/vscode_Extension_install.png)<br>
+<font size = 4>1. 安裝 ( Install )</font>
+<br>![](image/vscode_Extension_install.png)<br>
 未安裝的模組在介紹頁面會顯示安裝按鈕。
     <hr><br>
-2. 卸載 / 解除安裝 ( Uninstall )<br>
-![](image/vscode_Extension_uninstall.png)<br>
+
+<font size = 4>2. 卸載 / 解除安裝 ( Uninstall )</font>
+<br>![](image/vscode_Extension_uninstall.png)<br>
 安裝後會顯示解除安裝的按鈕。
     <hr><br>
-3. 切換版本 ( Other Version )<br>
-![](image/vscode_Extension_otherVer.png)<br>
-按鈕右側有一個符號 V，可以展開菜單安裝或切換另一個版本
+
+<font size = 4>3. 切換版本 ( Other Version )</font>
+<br>![](image/vscode_Extension_otherVer.png)<br>
+按鈕右側下選菜單，可以展開菜單安裝或切換另一個版本
     <hr><br>
-4. 停用模組 ( Disable )<br>
-![](image/vscode_Extension_disable.png)v
+
+<font size = 4>4. 停用模組 ( Disable )</font>
+<br>![](image/vscode_Extension_disable.png)<br>
 安裝模組後，會多一個停用按鈕，停用後該模組功能將立刻失效
     <hr><br>
-5. 啓用模組 ( Enable )<br>
-![](image/vscode_Extension_enable.png)<br>
+
+<font size = 4>5. 啓用模組 ( Enable )</font>
+<br>![](image/vscode_Extension_enable.png)<br>
 停用模組後，會多一個啓用按鈕，啓用後該模組功能將立即生效
     <hr><br>
+
 ### (*注：部分模組需要重啓 VSCode 才會生效 )
 <br><br>
 
