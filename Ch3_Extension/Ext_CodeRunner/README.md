@@ -1,7 +1,12 @@
-# Extension
-`CodeRunner`
+# Extension `CodeRunner`
+![Extension : Code Runner](../../image/ext/vscode_ext_CodeRunner.png)
 
-## 命令行設定 - 於 VSCode 中執行程式命令行
+'Code Runner' 是便於在 VSCode 中編譯及執行各種程式語言的腳本程式，透過按鈕來一鍵編譯及執行程式碼的小工具。
+
+
+# 於 VSCode 中呼叫命令行介面
+
+此舉可使編譯及執行按鈕呼叫 VSCode 中的命令行下達指令，令調試更為方便快捷。
 
 ### 1. 選擇 >> 左側菜單中，最下方的齒輪 Logo
 ### 2. 選擇 >> 設定
